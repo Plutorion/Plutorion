@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Plutorion
+- 👀 I’m interested in code
+- 🌱 I’m currently learning javascript
+- 📫 How to reach me ...
